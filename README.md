@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Prework Study Guide Webpage
 
-You can use the [editor on GitHub](https://github.com/Aesthetic-Justice/prework-study-guide/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To improve myself and the marketable skills at my disposal, I started this project as the first of many. As such, this project contains several notes as well as a wealth of example code for me to fall-back on for the duration of my education and beyond.
+This project made me acquainted with a number of valuable concepts and skills relevant to a career in Web Development, as well as coding/scripting languages like HTML, CSS and Javascript. After having finished this project, I feel much more confident with using VSCode and Git
+as a core component in my coding environment. Moving forward, let this project serve as a marking point for a milestone as well as a resource for myself indefinitely.
 
-### Markdown
+## Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+N/A
 
-```markdown
-Syntax highlighted code block
+## Usage
 
-# Header 1
-## Header 2
-### Header 3
+As a repository of notes and example code, the index.html file is the best place to start. Within you'll find several quick bullet point notes which will expand into neat little cards when run in a webpage.
+the HTML file itself is a good skeleton example for the structure of a webpage and the linked stylesheet(assets/style.css) is a great resource for many different keywords and parameters.
+for Javascript, there is assets/script.js. While not containing a large number of more complex containers or native functions, its a great starting point for a beginner WebDev and the results of it can be scene when one inspects the Console when running index.html in a browser.
+finally for Git, I've added most of the recurring functions used during the Prework Study Guide to the respective card. Hopefully that'll serve as a back-up in the future.
 
-- Bulleted
-- List
+## Credits
 
-1. Numbered
-2. List
+bowtie-cat.png was an asset provided by the admin of the coding bootcamp.
+Additionally, all the code was written while following their instruction.
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Aesthetic-Justice/prework-study-guide/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please refer to the LICENSE file attached to this repo for further information.
